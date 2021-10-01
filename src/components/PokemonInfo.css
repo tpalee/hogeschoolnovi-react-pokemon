@@ -1,0 +1,33 @@
+article{
+    margin:1rem;
+    padding: 1rem;
+    width: 150px;
+    background-color: white;
+    border-radius: 12px;
+    box-shadow: 10px 10px 5px #b89316;
+}
+
+.pokemon-image{
+width:100%;
+}
+
+h2{
+
+}
+
+p{
+    font-weight: 600;
+}
+
+.light{
+    font-weight: normal;
+}
+
+.blue{
+    color:white;
+    display: block;
+    padding:3px;
+    border-radius: 6px;
+    margin-bottom: 3px;
+    background-color: #2a75bb;
+}
